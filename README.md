@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vitali Gerzhuk</h1>
 <h3 align="center">A passionate full stack developer from New York</h3>
 
-- 🌱 I’m currently learning **microservices architecture, focusing on Kafka**
+- 🌱 I’m currently learning **microservices architecture**
 
 - 💬 Ask me about **TypeScript/Node.js/React**
 
